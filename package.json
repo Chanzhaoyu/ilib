@@ -11,8 +11,11 @@
   },
   "devDependencies": {
     "@redon/eslint-config": "workspace:*",
+    "@redon/stylelint-config": "workspace:*",
     "eslint": "^8.24.0",
+    "postcss": "^8.4.16",
     "prettier": "^2.7.1",
+    "stylelint": "^14.12.1",
     "typescript": "^4.8.4"
   }
 }
