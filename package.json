@@ -8,5 +8,11 @@
   },
   "dependencies": {
     "vue": "^3.2.40"
+  },
+  "devDependencies": {
+    "@redon/eslint-config": "workspace:*",
+    "eslint": "^8.24.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4"
   }
 }
