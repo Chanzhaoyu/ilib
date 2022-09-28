@@ -1,3 +1,13 @@
 {
-  "stylelint.validate": ["css", "less", "scss", "html", "vue"]
+  "stylelint.validate": [
+    "css",
+    "less",
+    "scss",
+    "html",
+    "vue"
+  ],
+  "cSpell.words": [
+    "commitlint",
+    "styl"
+  ]
 }

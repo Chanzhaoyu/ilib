@@ -4,15 +4,20 @@
   "version": "1.0.0",
   "description": "Vue components",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "npx git-cz"
   },
   "dependencies": {
     "vue": "^3.2.40"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
     "@redon/eslint-config": "workspace:*",
     "@redon/stylelint-config": "workspace:*",
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.24.0",
+    "lint-staged": "^13.0.3",
     "postcss": "^8.4.16",
     "prettier": "^2.7.1",
     "stylelint": "^14.12.1",
